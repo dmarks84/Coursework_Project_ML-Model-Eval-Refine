@@ -2,8 +2,8 @@
 ### Part of the Coursera series: IBM Data Science
     
 ## Summary
-I used classification algorithms to create a model based on a set of training data and evaluated our testing data to determine the best model to use for prediction.  I used several algorithms (Linear Regression, KNN, Decision Trees, Logistic Regression, and SVM).  I evaluated these models using Accuracy Score, Jaccard Index, F1-Score, LogLoss, Mean Absolute Error, Mean Squared Error, R2-Score).  
+In this project, I took in data related to home sales in order to develop a model to predict future home sales.  We had to wrnagle the data and transform it, perform EDA and look at various correlations between features in order to set up a machine learning (polynomial linear regression) model on which to train and then create predictions.  We performed feature engneering and scaling in the process.
 
 ## Skills (Developed & Applied)
-Programming, Python, Numpy, Pandas, Scikit-learn, Dataframes, Data Modeling, Classification, Superived ML, Communication, Image Recognition, Text Recognition
+Programming, Python, Databases, Statistics, Probability, SciPy, Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn, Data Modeling, EDA, Data Visualization, Data Summarization, Data Reporting, Regression, Superived ML, Communication
     
